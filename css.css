@@ -1,0 +1,14 @@
+.square{
+height: 50px;
+width: 50px;
+background-color: silver;
+
+}
+.parent{
+  display: flex;
+}
+.third {
+width: 20%;
+ float: right;
+}
+
